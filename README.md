@@ -85,7 +85,7 @@ Contributions to the Guessing Number Game project are welcome. If you have sugge
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/shivankushsingh09/Guessing-Number-Game?tab=MIT-1-ov-file).
 
 ## Acknowledgments
 
