@@ -89,8 +89,8 @@ This project is licensed under the [MIT License](https://github.com/shivankushsi
 
 ## Acknowledgments
 
-- Inspiration from [source of inspiration, if any].
-- Thanks to [anyone who helped or contributed].
+- Inspiration from [w3schools](https://www.w3schools.com/java/).
+- Thanks to the Java programming community for providing resources and support.
 
 ## Contact
 
